@@ -1,15 +1,15 @@
 <h1 align="center">
-  <img alt="venoyFinances" title="venoyFinances" src=".github/logo.webp" width="220px" />
+  <img alt="venoyFinances" title="venoyFinances" src="logo.webp" width="220px" />
 </h1>
 <br>
 <br>
 <p align="center">
-  <img alt="venoyFinances" src=".github/dev-finances.png" width="100%">
+  <img alt="venoyFinances" src="Principal - PC.png" width="100%">
 </p>
 <br>
 
 ## Sobre o projeto 💬
-O **venoy.finance$** é uma aplicação web de controle financeiro desenvolvida na ***Maratona Discover***, da ***Rocketseat***, no qual você pode registrar e excluir transações, e visualizar seu saldo total de acordo com as entradas e saídas.
+O **venoy.finance$** é uma aplicação web de controle financeiro desenvolvido em um hobby entre amigos, no qual você pode registrar e excluir transações, e visualizar seu saldo total de acordo com as entradas e saídas.
 
 ## Tecnologias 🚀
 Desenvolvido utilizando as seguintes tecnologias:
@@ -21,4 +21,4 @@ Desenvolvido utilizando as seguintes tecnologias:
 * Darkmode;
 * Quando o saldo total for negativo, o card fica vermelho.
 ---
-Feito por: [Vinícius Figueiroa](https://github.com/vinixiii) 🙋🏻‍♂️
+Feito por: [Paulo Venoy](https://github.com/paulovenoy) 🙋🏻‍♂️
